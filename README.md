@@ -20,7 +20,7 @@ STANDARD: C++ 20
     - Debug (Log System and Break Points)
     - Pointers
 ### C++ Keywords
-1. `static`, `inline' and `extern`
+1. `static` and `extern`
 2. `enum`
 3. `const`
 4. `mutable`
