@@ -1,2 +1,2 @@
-add_executable(004_Variables
+add_executable(004_1_Variables
 "Main.cpp")
