@@ -1,6 +1,10 @@
 # CPP-Examples
 CPP examples for education.
 
+<ins>Rate of progress: **6/55** </ins>
+
+![](https://geps.dev/progress/11)
+
 STANDARD: C++ 20
 
 - Cmake based project.
@@ -8,13 +12,13 @@ STANDARD: C++ 20
 - Make sure your Visual Studio has CMake components.
 
 ### C++ Basic knowledge
-1. Overview
-2. C++ Compiler
-3. C++ Linker
+1. Overview :heavy_check_mark:
+2. C++ Compiler :heavy_check_mark:
+3. C++ Linker :heavy_check_mark:
 4. Basic knowledge
-    - Variables
-    - Fuctions
-    - Controls (Condition, Loop) | if, for, while, do-while, switch
+    - Variables :heavy_check_mark:
+    - Fuctions :heavy_check_mark:
+    - Controls (Condition, Loop) | if, for, while, do-while, switch :heavy_check_mark:
     - Ternary Operators
     - Headers
     - Debug (Log System and Break Points)
