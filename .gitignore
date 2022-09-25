@@ -1,5 +1,6 @@
 # Visual Studio
 .vs
+.vscode
 
 # CMake
 CMakeLists.txt.user
@@ -16,3 +17,7 @@ _deps
 
 # Build files
 out
+Build
+
+#Cache
+.cache
