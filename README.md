@@ -1,4 +1,4 @@
-# CPP-Examples
+# Everything in C++
 CPP examples for education.
 
 <ins>Rate of progress: **6/55** </ins>
